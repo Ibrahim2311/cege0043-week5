@@ -1,0 +1,9 @@
+[submodule "ucesisi/www/js"]
+	path = ucesisi/www/js
+	url = https://github.com/ibrahim2311/cege0043-jsReference
+[submodule "ucesisi/www/css"]
+	path = ucesisi/www/css
+	url = https://github.com/ibrahim2311/cege0043-cssReference
+[submodule "ucesisi/www/images"]
+	path = ucesisi/www/images
+	url = https://github.com/ibrahim2311/cege0043-imagesReference
