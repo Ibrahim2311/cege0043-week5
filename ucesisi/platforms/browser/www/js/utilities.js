@@ -16,3 +16,5 @@ function getPort(){
     xhr.open("get", configLocation, true);
     xhr.send();
 }
+
+getPort();
